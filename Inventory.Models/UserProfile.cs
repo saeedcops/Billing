@@ -16,6 +16,6 @@ namespace Inventory.Models
         public string ConfirmPassword { get; set; }
         public string OldPassword { get; set; }
         public string ProfilePic { get; set; }
-        public int AppUserId { get; set; }
+        public string AppUserId { get; set; }
     }
 }

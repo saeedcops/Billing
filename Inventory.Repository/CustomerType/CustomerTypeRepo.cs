@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Inventory.Repository
+namespace Inventory.Repository.CustomerType
 {
-    public class DbInitialize
+    internal class CustomerTypeRepo
     {
     }
 }
